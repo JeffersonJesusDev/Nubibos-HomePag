@@ -1,0 +1,168 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: font1;
+}
+
+@font-face {
+    font-family: font1;
+    src: url(Quicksand/Quicksand-VariableFont_wght.ttf);
+}
+
+.navbar{
+    width: 60%;
+    height: 55px;
+    margin: auto;
+    margin-top: 10px;
+
+    border-radius: 10px;
+    background-color: #1376ff;
+}
+
+.navbar .navbar-expand-lg{
+
+}
+
+.row{
+    margin: 0;
+}
+
+.navbar-brand{
+    margin-left: 20px;
+}
+
+
+#logincadastro-menu{
+    background-color: #D5941D;
+    border-radius: 10px;
+    /* margin-left: 200px; */
+}
+
+#navbar-links a{
+    color: #fff;
+}
+
+#navbar-links a:hover{
+    color: #083b83;
+}
+
+.espaco-em-branco{
+    width: 130px;
+}
+
+.navbar-expand-lg {
+  
+}
+
+main{
+    width: 100%;
+    height: 150vh;
+    background-color: #D5941D;
+}
+
+p{
+    font-size: 2.2vw;
+    font-weight: bold; 
+}
+
+#sec2{
+    color: #7B175F;
+}
+
+#sec3{
+    color: #795107;
+}
+
+.containersec1, .containersec2, .containersec3{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    height: 900px;
+    background-color: #E3ECEA;
+    font-size: 10vh;
+}
+
+.containersec2{
+    background-color: #FFE5F8;
+}
+
+.containersec3{
+    background-color: #FFE5F8;
+}
+
+.secao1, .secao21{
+    font-size: 5rem;
+    width: 45%;
+    margin-left: 150px;
+}
+
+.secao1 h1{
+    font-size: 4.5vw;
+    color: #1376FF;
+    font-weight: bold; 
+}
+
+.secao21 h1{
+    font-size: 4.5vw;
+    color: #FF5AD1;
+    font-weight: bold; 
+}
+
+.secao11 h1{
+    font-size: 4.5vw;
+    color: #FFA62B;
+    font-weight: bold; 
+}
+
+#gratis {
+    width: 304px;
+}
+#gratis:hover {
+
+    width: 310px;
+    transition: all 0.5s;
+}
+
+
+.section-dentro img{
+    width: 190px;
+}
+.section-dentro img:hover{
+    width: 200px;
+    transition: all 0.5s;
+}
+
+.conhecer{
+    font-weight: bold; 
+    margin-left: -86px;
+    color: #fff;
+    text-decoration: none;
+}
+
+.secao2 {
+    display: flex;
+    justify-content: end;
+    width: 45%;
+    margin-right: 150px;
+    /* background-color: #1376ff; */
+}
+
+.secao2  img{
+    border: 7px solid #D5941D;
+    width: 88%;
+    background-color: #1376ff;
+    border-radius: 30px;
+}
+
+.nuvens{
+    position: fixed;
+    display: flex;
+    top: 800px;
+    width: 100%;
+    margin: auto;
+}
+
+
+
+
+
