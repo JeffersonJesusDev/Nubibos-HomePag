@@ -10,11 +10,11 @@
 }
 
 .navbar{
-    width: 60%;
-    height: 55px;
+    width: 70%;
+    height: 70px;
     margin: auto;
     margin-top: 10px;
-
+    font-size: 1.2vw;
     border-radius: 10px;
     background-color: #1376ff;
 }
@@ -35,7 +35,7 @@
 #logincadastro-menu{
     background-color: #D5941D;
     border-radius: 10px;
-    /* margin-left: 200px; */
+    margin-left: 92px;
 }
 
 #navbar-links a{
@@ -55,8 +55,7 @@
 }
 
 main{
-    width: 100%;
-    height: 150vh;
+    min-height: 900px;
     background-color: #D5941D;
 }
 
@@ -77,7 +76,8 @@ p{
     display: flex;
     align-items: center;
     width: 100%;
-    height: 900px;
+    justify-content: center;
+    min-height: 900px;
     background-color: #E3ECEA;
     font-size: 10vh;
 }
@@ -87,7 +87,7 @@ p{
 }
 
 .containersec3{
-    background-color: #FFE5F8;
+    background-color: #FFF6E9;
 }
 
 .secao1, .secao21{
@@ -152,14 +152,6 @@ p{
     width: 88%;
     background-color: #1376ff;
     border-radius: 30px;
-}
-
-.nuvens{
-    position: fixed;
-    display: flex;
-    top: 800px;
-    width: 100%;
-    margin: auto;
 }
 
 
